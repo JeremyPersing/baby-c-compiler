@@ -7,6 +7,8 @@ Based off of this AST, I use depth first search and recursion to create ILOC.
 I keep track of variable names and assignments by using a lookup table. 
 Due to the nature of this assignment, I used a linked list for the lookup table because of it was simple to implement. 
 However, the lookup table would have been more efficient if I used a hash table instead.
+# Demo
+https://youtu.be/z4amIJrmN6s
 # What I Learned
 - Became more comfortable developing in the C language and using pointers
 - Practical uses for algorithms such as Depth First Search
